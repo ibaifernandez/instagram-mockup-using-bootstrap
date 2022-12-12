@@ -1,0 +1,28 @@
+.instagram-header, .close-eks {
+    font-size: 1.5rem;
+}
+
+.w-35 {
+    width:35%;
+}
+
+@media screen and (max-width: 1200px){
+    .w-lg-50 {
+        width:50% !important;
+    }
+    
+}
+
+@media screen and (max-width: 960px){
+    .w-md-60 {
+        width:60% !important;
+    }
+    
+}
+
+@media screen and (max-width: 600px){
+    .w-sm-100 {
+        width:100% !important;
+    }
+    
+}
